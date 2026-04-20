@@ -1,0 +1,19 @@
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+coverage.out
+
+# Rust
+target/
+**/target/
+
+# Keep Cargo.lock for binary crates
+# Cargo.lock
