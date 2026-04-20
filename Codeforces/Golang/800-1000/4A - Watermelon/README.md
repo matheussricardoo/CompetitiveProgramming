@@ -9,8 +9,8 @@ To split `w` into two positive even integers, two conditions must hold:
 - `w` must be greater than `2`, since the smallest valid split is `2 + 2 = 4`.
 
 ### Complexity
-- Time: `O(1)` — only one arithmetic check is needed.
-- Space: `O(1)` — no extra data structures are used.
+- Time: `O(1)` - only one arithmetic check is needed.
+- Space: `O(1)` - no extra data structures are used.
 
 ### Implementations
 - [Go solution](main.go)
