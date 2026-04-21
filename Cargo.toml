@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "Codeforces/Rust/800-1000/4A - Watermelon",
+  "Codeforces/Rust/800-1000/71A - Way Too Long words"
+]
+resolver = "2"
