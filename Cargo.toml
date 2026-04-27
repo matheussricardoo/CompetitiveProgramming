@@ -1,6 +1,7 @@
 [workspace]
 members = ["Codeforces/Rust/800-1000/158A - Next Round",
-"Codeforces/Rust/800-1000/231A - Team",
+"Codeforces/Rust/800-1000/231A - Team", 
+"Codeforces/Rust/800-1000/263A - Beautiful Matrix",
 "Codeforces/Rust/800-1000/282A - Bit ++",
 "Codeforces/Rust/800-1000/4A - Watermelon",
 "Codeforces/Rust/800-1000/50A - Domino piling",
