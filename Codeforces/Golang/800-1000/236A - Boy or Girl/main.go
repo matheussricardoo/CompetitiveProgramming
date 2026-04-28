@@ -11,9 +11,7 @@ func main() {
 	for _, char := range name {
 		distinctCh[char] = true
 	}
-
 	count := len(distinctCh)
-	fmt.Println(count)
 
 	if count%2 == 0 {
 		fmt.Println("CHAT WITH HER!")
