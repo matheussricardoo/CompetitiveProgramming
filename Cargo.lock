@@ -19,6 +19,10 @@ name = "next_round"
 version = "0.1.0"
 
 [[package]]
+name = "petya_and_strings"
+version = "0.1.0"
+
+[[package]]
 name = "team"
 version = "0.1.0"
 
