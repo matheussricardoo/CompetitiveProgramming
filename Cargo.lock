@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "bear_and_big_brother"
+version = "0.1.0"
+
+[[package]]
 name = "beautiful_matrix"
 version = "0.1.0"
 
@@ -16,6 +20,10 @@ version = "0.1.0"
 
 [[package]]
 name = "domino_piling"
+version = "0.1.0"
+
+[[package]]
+name = "elephant"
 version = "0.1.0"
 
 [[package]]
@@ -40,4 +48,8 @@ version = "0.1.0"
 
 [[package]]
 name = "waytoolongwords"
+version = "0.1.0"
+
+[[package]]
+name = "word_capitalization"
 version = "0.1.0"
