@@ -39,6 +39,10 @@ name = "petya_and_strings"
 version = "0.1.0"
 
 [[package]]
+name = "stones_on_the_table"
+version = "0.1.0"
+
+[[package]]
 name = "team"
 version = "0.1.0"
 
