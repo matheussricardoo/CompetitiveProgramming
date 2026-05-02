@@ -39,6 +39,10 @@ name = "petya_and_strings"
 version = "0.1.0"
 
 [[package]]
+name = "soldier_and_bananas"
+version = "0.1.0"
+
+[[package]]
 name = "stones_on_the_table"
 version = "0.1.0"
 
@@ -55,5 +59,13 @@ name = "waytoolongwords"
 version = "0.1.0"
 
 [[package]]
+name = "word"
+version = "0.1.0"
+
+[[package]]
 name = "word_capitalization"
+version = "0.1.0"
+
+[[package]]
+name = "wrong_subtraction"
 version = "0.1.0"
