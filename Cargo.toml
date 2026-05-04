@@ -1,5 +1,5 @@
 [workspace]
-members = [
+members = ["Codeforces/Rust/800-1000/110A - Nearly Lucky Number",
 "Codeforces/Rust/800-1000/112A - Petya and Strings",
 "Codeforces/Rust/800-1000/158A - Next Round",
 "Codeforces/Rust/800-1000/231A - Team", 
@@ -8,13 +8,14 @@ members = [
 "Codeforces/Rust/800-1000/266A - Stones on the Table",
 "Codeforces/Rust/800-1000/281A - Word Capitalization",
 "Codeforces/Rust/800-1000/282A - Bit ++", 
-"Codeforces/Rust/800-1000/339A - Helpful Maths",
+"Codeforces/Rust/800-1000/339A - Helpful Maths", 
+"Codeforces/Rust/800-1000/41A - Translation",
 "Codeforces/Rust/800-1000/4A - Watermelon",
 "Codeforces/Rust/800-1000/50A - Domino piling", 
 "Codeforces/Rust/800-1000/546A - Soldier and Bananas", 
 "Codeforces/Rust/800-1000/59A - Word", 
 "Codeforces/Rust/800-1000/617A - Elephant",
-"Codeforces/Rust/800-1000/71A - Way Too Long words", 
+"Codeforces/Rust/800-1000/71A - Way Too Long words", "Codeforces/Rust/800-1000/734A - Anton and Danik", 
 "Codeforces/Rust/800-1000/791A - Bear and Big Brother", "Codeforces/Rust/800-1000/977A - Wrong Subtraction",
 ]
 resolver = "2"

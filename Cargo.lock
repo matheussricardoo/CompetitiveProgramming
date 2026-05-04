@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "anton_and_danik"
+version = "0.1.0"
+
+[[package]]
 name = "bear_and_big_brother"
 version = "0.1.0"
 
@@ -31,6 +35,10 @@ name = "helpful_maths"
 version = "0.1.0"
 
 [[package]]
+name = "nearly_lucky_number"
+version = "0.1.0"
+
+[[package]]
 name = "next_round"
 version = "0.1.0"
 
@@ -48,6 +56,10 @@ version = "0.1.0"
 
 [[package]]
 name = "team"
+version = "0.1.0"
+
+[[package]]
+name = "translation"
 version = "0.1.0"
 
 [[package]]
