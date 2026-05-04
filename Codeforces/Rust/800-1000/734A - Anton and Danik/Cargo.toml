@@ -1,0 +1,6 @@
+[package]
+name = "anton_and_danik"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
