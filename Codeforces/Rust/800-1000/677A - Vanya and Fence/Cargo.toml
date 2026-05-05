@@ -1,0 +1,6 @@
+[package]
+name = "vanya_and_fence"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
