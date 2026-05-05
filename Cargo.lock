@@ -15,6 +15,10 @@ name = "beautiful_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "beautiful_year"
+version = "0.1.0"
+
+[[package]]
 name = "bit_plusplus"
 version = "0.1.0"
 
@@ -60,6 +64,10 @@ version = "0.1.0"
 
 [[package]]
 name = "translation"
+version = "0.1.0"
+
+[[package]]
+name = "vanya_and_fence"
 version = "0.1.0"
 
 [[package]]
