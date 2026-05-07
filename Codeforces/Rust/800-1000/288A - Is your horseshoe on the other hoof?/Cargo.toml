@@ -1,0 +1,6 @@
+[package]
+name = "is_your_horseshoe_on_the_other_hoof"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
