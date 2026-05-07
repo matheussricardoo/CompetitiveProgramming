@@ -27,6 +27,10 @@ name = "boy_or_girl"
 version = "0.1.0"
 
 [[package]]
+name = "calculating_function"
+version = "0.1.0"
+
+[[package]]
 name = "domino_piling"
 version = "0.1.0"
 
@@ -35,11 +39,19 @@ name = "elephant"
 version = "0.1.0"
 
 [[package]]
+name = "george_and_accomadation"
+version = "0.1.0"
+
+[[package]]
 name = "helpful_maths"
 version = "0.1.0"
 
 [[package]]
 name = "in_search_of_an_easy_problem"
+version = "0.1.0"
+
+[[package]]
+name = "magnets"
 version = "0.1.0"
 
 [[package]]
