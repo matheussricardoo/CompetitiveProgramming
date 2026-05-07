@@ -35,6 +35,10 @@ name = "domino_piling"
 version = "0.1.0"
 
 [[package]]
+name = "drinks"
+version = "0.1.0"
+
+[[package]]
 name = "elephant"
 version = "0.1.0"
 
@@ -47,7 +51,15 @@ name = "helpful_maths"
 version = "0.1.0"
 
 [[package]]
+name = "hulk"
+version = "0.1.0"
+
+[[package]]
 name = "in_search_of_an_easy_problem"
+version = "0.1.0"
+
+[[package]]
+name = "is_your_horseshoe_on_the_other_hoof"
 version = "0.1.0"
 
 [[package]]
@@ -64,6 +76,10 @@ version = "0.1.0"
 
 [[package]]
 name = "petya_and_strings"
+version = "0.1.0"
+
+[[package]]
+name = "presents"
 version = "0.1.0"
 
 [[package]]
@@ -88,6 +104,10 @@ version = "0.1.0"
 
 [[package]]
 name = "translation"
+version = "0.1.0"
+
+[[package]]
+name = "ultra_fast_mathematician"
 version = "0.1.0"
 
 [[package]]

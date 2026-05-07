@@ -23,6 +23,13 @@ members = ["Codeforces/Rust/800-1000/467A - George and Accommodation","Codeforce
 "Codeforces/Rust/800-1000/71A - Way Too Long words", 
 "Codeforces/Rust/800-1000/734A - Anton and Danik", 
 "Codeforces/Rust/800-1000/791A - Bear and Big Brother", 
-"Codeforces/Rust/800-1000/977A - Wrong Subtraction", "Codeforces/Rust/800-1000/486A - Calculating Function", "Codeforces/Rust/800-1000/344A - Magnets",
+"Codeforces/Rust/800-1000/977A - Wrong Subtraction", 
+"Codeforces/Rust/800-1000/486A - Calculating Function", 
+"Codeforces/Rust/800-1000/344A - Magnets", 
+"Codeforces/Rust/800-1000/200B - Drinks", 
+"Codeforces/Rust/800-1000/136A - Presents", 
+"Codeforces/Rust/800-1000/288A - Is your horseshoe on the other hoof?", 
+"Codeforces/Rust/800-1000/61A - Ultra-Fast Mathematician", 
+"Codeforces/Rust/800-1000/705A - Hulk",
 ]
 resolver = "2"
