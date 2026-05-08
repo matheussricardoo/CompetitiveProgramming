@@ -7,6 +7,10 @@ name = "anton_and_danik"
 version = "0.1.0"
 
 [[package]]
+name = "arrival_of_the_general"
+version = "0.1.0"
+
+[[package]]
 name = "bear_and_big_brother"
 version = "0.1.0"
 
@@ -31,6 +35,10 @@ name = "calculating_function"
 version = "0.1.0"
 
 [[package]]
+name = "divisibilityProblem"
+version = "0.1.0"
+
+[[package]]
 name = "domino_piling"
 version = "0.1.0"
 
@@ -51,7 +59,15 @@ name = "helpful_maths"
 version = "0.1.0"
 
 [[package]]
+name = "hit_the_loterry"
+version = "0.1.0"
+
+[[package]]
 name = "hulk"
+version = "0.1.0"
+
+[[package]]
+name = "i_wanna_be_the_guy"
 version = "0.1.0"
 
 [[package]]
@@ -72,6 +88,10 @@ version = "0.1.0"
 
 [[package]]
 name = "next_round"
+version = "0.1.0"
+
+[[package]]
+name = "pangram"
 version = "0.1.0"
 
 [[package]]
