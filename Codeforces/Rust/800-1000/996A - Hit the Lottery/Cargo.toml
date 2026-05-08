@@ -1,0 +1,6 @@
+[package]
+name = "hit_the_loterry"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
