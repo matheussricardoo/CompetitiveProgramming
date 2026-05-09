@@ -7,6 +7,14 @@ name = "anton_and_danik"
 version = "0.1.0"
 
 [[package]]
+name = "anton_and_letters"
+version = "0.1.0"
+
+[[package]]
+name = "anton_and_polyhedrons"
+version = "0.1.0"
+
+[[package]]
 name = "arrival_of_the_general"
 version = "0.1.0"
 
@@ -35,6 +43,10 @@ name = "calculating_function"
 version = "0.1.0"
 
 [[package]]
+name = "candies_and_two_sisters"
+version = "0.1.0"
+
+[[package]]
 name = "divisibilityProblem"
 version = "0.1.0"
 
@@ -48,6 +60,10 @@ version = "0.1.0"
 
 [[package]]
 name = "elephant"
+version = "0.1.0"
+
+[[package]]
+name = "fox_and_snake"
 version = "0.1.0"
 
 [[package]]
@@ -72,6 +88,10 @@ version = "0.1.0"
 
 [[package]]
 name = "in_search_of_an_easy_problem"
+version = "0.1.0"
+
+[[package]]
+name = "insomnia_cure"
 version = "0.1.0"
 
 [[package]]

@@ -36,6 +36,11 @@ members = ["Codeforces/Rust/800-1000/467A - George and Accommodation",
 "Codeforces/Rust/800-1000/520A - Pangram", 
 "Codeforces/Rust/800-1000/144A - Arrival of the General", 
 "Codeforces/Rust/800-1000/469A - I Wanna Be the Guy", 
-"Codeforces/Rust/800-1000/996A - Hit the Lottery",
+"Codeforces/Rust/800-1000/996A - Hit the Lottery", 
+"Codeforces/Rust/800-1000/148A - Insomnia cure", 
+"Codeforces/Rust/800-1000/443A - Anton and Letters", 
+"Codeforces/Rust/800-1000/785A - Anton and Polyhedrons", 
+"Codeforces/Rust/800-1000/510A - Fox And Snake", 
+"Codeforces/Rust/800-1000/1335A - Candies and Two Sisters",
 ]
 resolver = "2"
