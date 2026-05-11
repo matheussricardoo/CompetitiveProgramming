@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "amusing_joke"
+version = "0.1.0"
+
+[[package]]
 name = "anton_and_danik"
 version = "0.1.0"
 
@@ -64,6 +68,10 @@ version = "0.1.0"
 
 [[package]]
 name = "fox_and_snake"
+version = "0.1.0"
+
+[[package]]
+name = "games"
 version = "0.1.0"
 
 [[package]]
@@ -135,7 +143,19 @@ name = "stones_on_the_table"
 version = "0.1.0"
 
 [[package]]
+name = "sum"
+version = "0.1.0"
+
+[[package]]
+name = "sum_of_round_numbers"
+version = "0.1.0"
+
+[[package]]
 name = "team"
+version = "0.1.0"
+
+[[package]]
+name = "the_new_year_meeting_friends"
 version = "0.1.0"
 
 [[package]]

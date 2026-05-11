@@ -41,6 +41,11 @@ members = ["Codeforces/Rust/800-1000/467A - George and Accommodation",
 "Codeforces/Rust/800-1000/443A - Anton and Letters", 
 "Codeforces/Rust/800-1000/785A - Anton and Polyhedrons", 
 "Codeforces/Rust/800-1000/510A - Fox And Snake", 
-"Codeforces/Rust/800-1000/1335A - Candies and Two Sisters",
+"Codeforces/Rust/800-1000/1335A - Candies and Two Sisters", 
+"Codeforces/Rust/800-1000/1742A - Sum", 
+"Codeforces/Rust/800-1000/268A - Games", 
+"Codeforces/Rust/800-1000/1352A - Sum of Round Numbers", 
+"Codeforces/Rust/800-1000/141A - Amusing Joke", 
+"Codeforces/Rust/800-1000/723A - The New Year: Meeting Friends", 
 ]
 resolver = "2"
