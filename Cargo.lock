@@ -91,6 +91,10 @@ name = "hulk"
 version = "0.1.0"
 
 [[package]]
+name = "i_love_username"
+version = "0.1.0"
+
+[[package]]
 name = "i_wanna_be_the_guy"
 version = "0.1.0"
 
@@ -127,11 +131,19 @@ name = "petya_and_strings"
 version = "0.1.0"
 
 [[package]]
+name = "police_recruits"
+version = "0.1.0"
+
+[[package]]
 name = "presents"
 version = "0.1.0"
 
 [[package]]
 name = "queue_at_the_school"
+version = "0.1.0"
+
+[[package]]
+name = "soft_drinking"
 version = "0.1.0"
 
 [[package]]
@@ -192,4 +204,8 @@ version = "0.1.0"
 
 [[package]]
 name = "wrong_subtraction"
+version = "0.1.0"
+
+[[package]]
+name = "yes_or_yes"
 version = "0.1.0"

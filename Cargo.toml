@@ -47,5 +47,9 @@ members = ["Codeforces/Rust/800-1000/467A - George and Accommodation",
 "Codeforces/Rust/800-1000/1352A - Sum of Round Numbers", 
 "Codeforces/Rust/800-1000/141A - Amusing Joke", 
 "Codeforces/Rust/800-1000/723A - The New Year: Meeting Friends", 
+"Codeforces/Rust/800-1000/1703A - YES or YES?", 
+"Codeforces/Rust/800-1000/427A - Police Recruits", 
+"Codeforces/Rust/800-1000/151A - Soft Drinking", 
+"Codeforces/Rust/800-1000/155A -  I_love_%username%", 
 ]
 resolver = "2"
