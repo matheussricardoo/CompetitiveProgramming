@@ -1,0 +1,6 @@
+[package]
+name = "new_year_and_hurry"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

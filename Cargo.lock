@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "again_twenty_five"
+version = "0.1.0"
+
+[[package]]
 name = "amusing_joke"
 version = "0.1.0"
 
@@ -71,6 +75,10 @@ name = "fox_and_snake"
 version = "0.1.0"
 
 [[package]]
+name = "game_with_integers"
+version = "0.1.0"
+
+[[package]]
 name = "games"
 version = "0.1.0"
 
@@ -119,6 +127,10 @@ name = "nearly_lucky_number"
 version = "0.1.0"
 
 [[package]]
+name = "new_year_and_hurry"
+version = "0.1.0"
+
+[[package]]
 name = "next_round"
 version = "0.1.0"
 
@@ -140,6 +152,10 @@ version = "0.1.0"
 
 [[package]]
 name = "queue_at_the_school"
+version = "0.1.0"
+
+[[package]]
+name = "sereja_and_dima"
 version = "0.1.0"
 
 [[package]]
