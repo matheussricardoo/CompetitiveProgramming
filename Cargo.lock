@@ -47,6 +47,10 @@ name = "boy_or_girl"
 version = "0.1.0"
 
 [[package]]
+name = "but_a_shovel"
+version = "0.1.0"
+
+[[package]]
 name = "calculating_function"
 version = "0.1.0"
 
@@ -56,6 +60,10 @@ version = "0.1.0"
 
 [[package]]
 name = "divisibilityProblem"
+version = "0.1.0"
+
+[[package]]
+name = "division"
 version = "0.1.0"
 
 [[package]]
@@ -116,6 +124,10 @@ version = "0.1.0"
 
 [[package]]
 name = "is_your_horseshoe_on_the_other_hoof"
+version = "0.1.0"
+
+[[package]]
+name = "lucky"
 version = "0.1.0"
 
 [[package]]

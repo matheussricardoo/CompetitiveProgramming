@@ -55,5 +55,8 @@ members = ["Codeforces/Rust/800-1000/467A - George and Accommodation",
 "Codeforces/Rust/800-1000/1899A - Game with Integers", 
 "Codeforces/Rust/800-1000/750A - New Year and Hurry", 
 "Codeforces/Rust/800-1000/381A - Sereja and Dima", 
+"Codeforces/Rust/800-1000/1669A - Division", 
+"Codeforces/Rust/800-1000/732A - But a Shovel", 
+"Codeforces/Rust/800-1000/1676A - Lucky?", 
 ]
 resolver = "2"
