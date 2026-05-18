@@ -27,7 +27,6 @@ fn main() {
             if right > 0 {
                 right -= 1;
             } else if left == right {
-                right = 0;
                 if is_sereja_turn {
                     sereja_score += picked_card;
                 } else {
