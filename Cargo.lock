@@ -79,6 +79,14 @@ name = "elephant"
 version = "0.1.0"
 
 [[package]]
+name = "even_odds"
+version = "0.1.0"
+
+[[package]]
+name = "football"
+version = "0.1.0"
+
+[[package]]
 name = "fox_and_snake"
 version = "0.1.0"
 
@@ -100,6 +108,10 @@ version = "0.1.0"
 
 [[package]]
 name = "hit_the_loterry"
+version = "0.1.0"
+
+[[package]]
+name = "hq"
 version = "0.1.0"
 
 [[package]]
@@ -204,6 +216,10 @@ version = "0.1.0"
 
 [[package]]
 name = "translation"
+version = "0.1.0"
+
+[[package]]
+name = "twins"
 version = "0.1.0"
 
 [[package]]

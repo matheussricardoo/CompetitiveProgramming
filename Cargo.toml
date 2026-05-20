@@ -59,5 +59,9 @@ members = [
 "Codeforces/Rust/800/1669A - Division", 
 "Codeforces/Rust/800/732A - But a Shovel", 
 "Codeforces/Rust/800/1676A - Lucky?", 
+"Codeforces/Rust/900/96A - Football", 
+"Codeforces/Rust/900/160A - Twins", 
+"Codeforces/Rust/900/318A - Even Odds", 
+"Codeforces/Rust/900/133A - HQ9+", 
 ]
 resolver = "2"
