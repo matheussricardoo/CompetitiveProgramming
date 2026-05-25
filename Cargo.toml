@@ -64,5 +64,8 @@ members = [
 "Codeforces/Rust/900/318A - Even Odds", 
 "Codeforces/Rust/900/133A - HQ9+", 
 "Codeforces/Rust/900/405A - Gravity Flip", 
+"Codeforces/Rust/900/208A - Dubstep", 
+"Codeforces/Rust/900/508A - Kefa and First Steps", 
+"Codeforces/Rust/900/337A - Puzzles", 
 ]
 resolver = "2"

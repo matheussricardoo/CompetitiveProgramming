@@ -75,6 +75,10 @@ name = "drinks"
 version = "0.1.0"
 
 [[package]]
+name = "dubstep"
+version = "0.1.0"
+
+[[package]]
 name = "elephant"
 version = "0.1.0"
 
@@ -143,6 +147,10 @@ name = "is_your_horseshoe_on_the_other_hoof"
 version = "0.1.0"
 
 [[package]]
+name = "kefa_and_first_steps"
+version = "0.1.0"
+
+[[package]]
 name = "lucky"
 version = "0.1.0"
 
@@ -176,6 +184,10 @@ version = "0.1.0"
 
 [[package]]
 name = "presents"
+version = "0.1.0"
+
+[[package]]
+name = "puzzles"
 version = "0.1.0"
 
 [[package]]
