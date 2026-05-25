@@ -1,0 +1,6 @@
+[package]
+name = "kefa_and_first_steps"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
