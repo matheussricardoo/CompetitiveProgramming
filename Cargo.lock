@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "Line-by-Line_reading"
+version = "0.1.0"
+
+[[package]]
 name = "again_twenty_five"
 version = "0.1.0"
 
@@ -95,6 +99,10 @@ name = "fox_and_snake"
 version = "0.1.0"
 
 [[package]]
+name = "full_reading_with_manual_parser"
+version = "0.1.0"
+
+[[package]]
 name = "game_with_integers"
 version = "0.1.0"
 
@@ -168,6 +176,10 @@ version = "0.1.0"
 
 [[package]]
 name = "next_round"
+version = "0.1.0"
+
+[[package]]
+name = "odd_divisor"
 version = "0.1.0"
 
 [[package]]

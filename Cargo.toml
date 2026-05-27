@@ -67,5 +67,8 @@ members = [
 "Codeforces/Rust/900/208A - Dubstep", 
 "Codeforces/Rust/900/508A - Kefa and First Steps", 
 "Codeforces/Rust/900/337A - Puzzles", 
+"Codeforces/Rust/900/1475A - Odd Divisor", 
+"Support functions/Rust/Input/Full Reading with Manual Parser", 
+"Support functions/Rust/Input/Line-by-Line Reading", 
 ]
 resolver = "2"

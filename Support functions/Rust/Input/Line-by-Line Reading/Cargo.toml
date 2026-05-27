@@ -1,0 +1,6 @@
+[package]
+name = "Line-by-Line_reading"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
