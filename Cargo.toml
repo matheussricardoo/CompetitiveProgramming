@@ -70,5 +70,8 @@ members = [
 "Codeforces/Rust/900/1475A - Odd Divisor", 
 "Support functions/Rust/Input/Full Reading with Manual Parser", 
 "Support functions/Rust/Input/Line-by-Line Reading", 
+"Codeforces/Rust/900/451A - Game With Sticks", 
+"Codeforces/Rust/900/1374B - Multiply by 2, divide by 6", 
+"Codeforces/Rust/900/34B - Sale", 
 ]
 resolver = "2"

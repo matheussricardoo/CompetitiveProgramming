@@ -1,0 +1,6 @@
+[package]
+name = "multiply_by_2_divide_by_6"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
