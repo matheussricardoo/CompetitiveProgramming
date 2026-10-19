@@ -1,23 +1,20 @@
+// Minimal integer reader example; EOF returns an error instead of looping forever.
 package main
 
 import (
-	"bufio"
+    "bufio"
+    "fmt"
+    "os"
 )
 
-func readInt(reader *bufio.Reader) int {
-	b, _ := reader.ReadByte()
-	for b <= ' ' {
-		b, _ = reader.ReadByte()
-	}
-	sign := 1
-	if b == '-' {
-		sign = -1
-		b, _ = reader.ReadByte()
-	}
-	res := 0
-	for b >= '0' && b <= '9' {
-		res = res*10 + int(b-'0')
-		b, _ = reader.ReadByte()
-	}
-	return res * sign
+func readInt(reader *bufio.Reader) (int, error) {
+    var value int
+    _, err := fmt.Fscan(reader, &value)
+    return value, err
+}
+
+func main() {
+    if value, err := readInt(bufio.NewReader(os.Stdin)); err == nil {
+        fmt.Println(value)
+    }
 }

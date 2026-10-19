@@ -41,3 +41,9 @@ impl FastScanner {
         String::from_utf8_lossy(&self.buffer[start..self.position]).into_owned()
     }
 }
+// Runnable example. The scanner helpers are intended for well-formed contest input.
+fn main() {
+    let mut scanner = FastScanner::new();
+    let token = scanner.next_string();
+    if !token.is_empty() { println!("{}", token); }
+}

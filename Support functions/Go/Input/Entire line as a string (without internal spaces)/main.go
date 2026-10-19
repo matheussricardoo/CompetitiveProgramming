@@ -1,18 +1,20 @@
+// Read one whitespace-delimited token. Empty input terminates normally.
 package main
 
 import (
-	"bufio"
+    "bufio"
+    "fmt"
+    "os"
 )
 
-func readString(reader *bufio.Reader) string {
-	b, _ := reader.ReadByte()
-	for b <= ' ' {
-		b, _ = reader.ReadByte()
-	}
-	var res []byte
-	for b > ' ' {
-		res = append(res, b)
-		b, _ = reader.ReadByte()
-	}
-	return string(res)
+func readString(reader *bufio.Reader) (string, error) {
+    var value string
+    _, err := fmt.Fscan(reader, &value)
+    return value, err
+}
+
+func main() {
+    if value, err := readString(bufio.NewReader(os.Stdin)); err == nil {
+        fmt.Println(value)
+    }
 }

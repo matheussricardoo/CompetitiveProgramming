@@ -72,6 +72,5 @@ members = [
 "Support functions/Rust/Input/Line-by-Line Reading", 
 "Codeforces/Rust/900/451A - Game With Sticks", 
 "Codeforces/Rust/900/1374B - Multiply by 2, divide by 6", 
-"Codeforces/Rust/900/34B - Sale", 
 ]
 resolver = "2"

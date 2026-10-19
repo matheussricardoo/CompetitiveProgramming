@@ -9,6 +9,7 @@ fn read_line_tokens() {
     let mut tokens = raw_line.split_whitespace();
     
     if let Some(token) = tokens.next() {
-        let number: i32 = token.parse().unwrap();
+        if let Ok(number) = token.parse::<i32>() { println!("{}", number); }
     }
 }
+fn main() { read_line_tokens(); }
